@@ -12,7 +12,7 @@ Class note GANJIL 2018
 
 
 Good luck
-
+see this https://www.electronics-tutorials.ws/opamp/opamp_1.html
 
 
 
